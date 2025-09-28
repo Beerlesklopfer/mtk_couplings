@@ -1,4 +1,2 @@
-*.py
-!__init__.py
 __pycache__/
 .DS_Store
